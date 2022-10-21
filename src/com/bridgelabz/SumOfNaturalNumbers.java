@@ -12,7 +12,7 @@ public class SumOfNaturalNumbers {
                 System.out.print("+");
                 sum = sum + i;
             }
-            System.out.println("sum is: "+sum);
+            System.out.println("  sum is: " +sum);
         }
     }
 }
